@@ -1,0 +1,1 @@
+snowsport:0.0808080808081,beach:0.0,nature:0.0606060606061,history:0.0,culture:0.010101010101,food:0.0,shop:0.0,

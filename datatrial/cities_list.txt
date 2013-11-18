@@ -1,0 +1,99 @@
+Hong Kong, China
+Singapore, Singapore
+London, UK
+Kuala Lumpur, Malaysia
+Macau, China
+Bangkok, Thailand
+Antalya, Turkey
+Shenzhen, China
+New York City, NY, USA
+Istanbul, Turkey
+Guangzhou, China
+Paris, France
+Dubai, UAE
+Shanghai, China
+Miami, FL, USA
+Mecca, Saudi Arabia
+Pattaya, Thailand
+Rome, Italy
+Las Vegas, NV, USA
+Barcelona, Spain
+Taipei, Taiwan
+Beijing, China
+Los Angeles, CA, USA
+Phuket, Thailand
+Budapest, Hungary
+Amsterdam, Netherlands
+Moscow, Russia
+Orlando, FL, USA
+Prague, Czech Republic
+Berlin, Germany
+Vienna, Austria
+Mugla,Turkey
+Ho Chi Minh, Vietnam
+Madrid, Spain
+Kiev, Ukraine
+Warsaw, Poland
+Dublin, Ireland
+Cairo, Egypt
+Edirne, Turkey
+Zhuhai, China
+Chennai, India
+Hangzhou, China
+Buenos Aires, Argentina
+San Francisco, CA, USA
+St Petersburg, Russia
+Seoul, South Korea
+Mexico City, Mexico
+Tokyo, Japan
+Toronto, Canada
+Delhi, India
+Sydney, Australia
+Denpasar, Indonesia
+Cancun, Mexico
+Lima, Peru
+Suzhou, China
+Bucharest, Romania
+Mumbai, India
+Brussels, Belgium
+Punta Cana, Dominican Republic
+Johannesburg, South Africa
+Munich, Germany
+Nice, France
+Auckland, Australia
+Lisbon, Portugal
+Agra, India
+Milan, Italy
+Jaipur, India
+Marrakech, Morocco
+Sharm el-Sheikh, Egypt
+Damascus, Syria
+Vancouver, Canada
+Jakarta, Indonesia
+Burgas, Bulgaria
+Aleppo, Syria
+Venice, Italy
+Manila, Philippines
+Florence, Italy
+Varna, Bulgaria
+Nairobi, Kenya
+Honolulu, HI, USA
+Athens, Greece
+Hanoi, Vietnam
+Christchurch, New Zealand
+Abu Dhabi, UAE
+Rio de Janeiro, Brazil
+Guilin, China
+Melbourne, Australia
+São Paulo, Brazil
+Chiang Mai, Thailand
+Washington, D.C., USA
+Riyadh, Saudi Arabia
+Baku, Azerbaijan
+Izmir, Turkey
+Nanjing, China
+Sofia, Bulgaria
+Issyk_Kul, Kyrgyzstan
+Minsk, Belarus
+Kolkata, India
+Zurich, Switzerland

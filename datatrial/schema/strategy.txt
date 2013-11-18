@@ -1,0 +1,6 @@
+strategy
+look for certain words for each category. 
+snowsports: ski, snowboard, mountain, apres-ski etc. 
+the number of these words combined/total words in doc. 
+map the percentage onto (0-5)
+
